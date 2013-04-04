@@ -60,6 +60,15 @@ a:hover { font-family: Arial, Helvetica, sans-serif; color: #000066; text-decora
 	line-height: 30px;
 }
 
+.navigation_list_item_active{
+	display: inline-block;
+	text-align: center;
+	width: 120px;
+	line-height: 30px;
+
+	background-color: rgb(0,61,103);;
+}
+
 .secondary_section{
 	display: block;
 	width: 100%;
