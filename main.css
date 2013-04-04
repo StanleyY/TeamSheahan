@@ -69,7 +69,7 @@ a:hover { font-family: Arial, Helvetica, sans-serif; color: #000066; text-decora
 .left_nav{
 	float:left;
 	display: inline-block;
-	width: 200px;
+	width: 170px;
 	height: 500px;
 	border: 3px solid black;
 	background-color: rgb(221,231,243);
@@ -78,7 +78,7 @@ a:hover { font-family: Arial, Helvetica, sans-serif; color: #000066; text-decora
 .right_section{
 	float:right;
 	display: inline-block;
-	width: 200px;
+	width: 170px;
 	height: 500px;
 	border: 3px solid black;
 	background-color: rgb(221,231,243);
@@ -90,7 +90,7 @@ a:hover { font-family: Arial, Helvetica, sans-serif; color: #000066; text-decora
 	min-height: 600px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 20px;
+	padding: 30px;
 	font-size:15px;
 	text-align: left;
 	font-family:Verdana, Geneva, sans-serif;
