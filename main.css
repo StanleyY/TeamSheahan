@@ -102,8 +102,6 @@ a:hover { font-family: Arial, Helvetica, sans-serif; color: #000066; text-decora
 	margin-right: auto;
 	max-width: 700px;
 	padding: 50px;
-
-	background-color: rgba(255,255,255,.7);
 }
 .featured_image > img{
 	max-width: 700px;
@@ -116,7 +114,6 @@ a:hover { font-family: Arial, Helvetica, sans-serif; color: #000066; text-decora
 	max-width: 700px;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: rgba(255,255,255,.7);
 }
 #featured_content > div{
 	display: inline-block;
