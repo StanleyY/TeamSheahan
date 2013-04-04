@@ -27,12 +27,27 @@ body{
 	border: 3px solid black;
 }
 
+input[type='text']{
+position: relative;
+left: 160px;
+width: 100px;
+height: 14px;
+border-radius: 3px;
+border: 1px solid #CCC;
+padding: 4px;
+font-weight: 200;
+font-size: 15px;
+font-family: Verdana;
+box-shadow: 1px 1px 5px #CCC;
+}
+
 .top_nav{
 	display: block;
 	margin-top: 160px;
 	text-align: left;
 	background-color: rgb(20,91,133);
 }
+
 /* so our top links look nicer */
 a:link { font-family: Arial, Helvetica, sans-serif; color: white; text-decoration: none}
 a:visited { font-family: Arial, Helvetica, sans-serif; color: white; text-decoration: none}
@@ -41,12 +56,8 @@ a:hover { font-family: Arial, Helvetica, sans-serif; color: #000066; text-decora
 
 .navigation_list_item{
 	display: inline-block;
-	list-style: none;
 	text-align: center;
-	width: 110px;
-	font-family:Arial, sans-serif;
-	text-decoration:none;
-	color:red;
+	width: 120px;
 	line-height: 30px;
 }
 
