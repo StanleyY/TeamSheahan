@@ -57,6 +57,7 @@ body{
 }
 
 .left_nav{
+	float:left;
 	display: inline-block;
 	width: 200px;
 	height: 500px;
@@ -65,6 +66,7 @@ body{
 }
 
 .right_section{
+	float:right;
 	display: inline-block;
 	width: 200px;
 	height: 500px;
