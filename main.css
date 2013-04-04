@@ -12,8 +12,7 @@ body{
 .main_section{
 	display: block;
 	max-width: 1024px;
-	margin-left: auto;
-	margin-right: auto;
+	margin:auto;
 	background-color: lightblue;
 	border: 2px solid blue;
 }
@@ -83,6 +82,17 @@ a:hover { font-family: Arial, Helvetica, sans-serif; color: #000066; text-decora
 	height: 500px;
 
 	background-color: orange;
+}
+
+.info{
+	display: inline-block;
+	max-width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px;
+	font-size:15px;
+	text-align: left;
+	font-family:Verdana, Geneva, sans-serif;
 }
 
 #featured_image_section{
